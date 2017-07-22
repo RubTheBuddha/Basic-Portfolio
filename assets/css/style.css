@@ -261,7 +261,7 @@ div.gallery {
 div.gallery img {
     width: 260px;
     height: 180px;
-    margin-left: 0;
+    margin-left: 15px;
 }
 
 div.desc {
@@ -276,7 +276,7 @@ div.desc p {
 	width: 220px;
 	position: relative;
 	bottom: 100px;
-	left: 15px;
+	left: 30px;
 	color: white;
 	font-family:  'Georgia', Times, Times New Roman, serif;
 	font-size: 26px;
@@ -295,6 +295,6 @@ div.gallery2 {
 div.gallery2 img {
     width: 260px;
     height: 160px;
-    margin-left: 0;
+    margin-left: 15px;
 }
 
